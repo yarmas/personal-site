@@ -190,4 +190,4 @@ Project Link: [https://github.com/yarmas/personal-site](https://github.com/yarma
 [license-shield]: https://img.shields.io/github/license/yarmas/repo.svg?style=for-the-badge
 [license-url]: https://github.com/yarmas/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yarmas
+[linkedin-url]: https://linkedin.com/in/samuelray03
